@@ -1,0 +1,7 @@
+C:\Users\HARSH PRATAP\source\repos\Superwheels\Superwheels\bin\Debug\Superwheels.exe.config
+C:\Users\HARSH PRATAP\source\repos\Superwheels\Superwheels\bin\Debug\Superwheels.exe
+C:\Users\HARSH PRATAP\source\repos\Superwheels\Superwheels\bin\Debug\Superwheels.pdb
+C:\Users\HARSH PRATAP\source\repos\Superwheels\Superwheels\obj\Debug\Superwheels.csproj.AssemblyReference.cache
+C:\Users\HARSH PRATAP\source\repos\Superwheels\Superwheels\obj\Debug\Superwheels.csproj.CoreCompileInputs.cache
+C:\Users\HARSH PRATAP\source\repos\Superwheels\Superwheels\obj\Debug\Superwheels.exe
+C:\Users\HARSH PRATAP\source\repos\Superwheels\Superwheels\obj\Debug\Superwheels.pdb
